@@ -1,4 +1,13 @@
 # MARKDOWN
+
+[Clase 1](./test.md) | [Clase 2](./test2.md)
+---|---
+
+### Comandos de simbolos usados
+- barra vertical | = 124
+- backtick ` = 96
+- virgulilla ~ = 126
+
 ## T&iacute;tulos
 Para poder crear los t&iacute;tulos se utiliza el s&iacute;mbolo `#`, siendo el h1 asi sucesivamente hasta el h6 (`######`).
 
