@@ -1,4 +1,4 @@
-# firstpage
+# Firstpage 💻
 Creando primera página en el curso de Platzi.
 
 ## Comentarios
@@ -8,5 +8,5 @@ Creando primera página en el curso de Platzi.
 - Abraham Alanya / https://github.com/abrahamalanya
 - Gino Galarza / https://github.com/ginogalarzac
 
-### Colaborador externo:
+### Colaboradores externos:
 - D3vimg / me gusta el proyecto y quiero aportar para que siga creciendo `firstpage`
