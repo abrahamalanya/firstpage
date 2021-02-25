@@ -7,3 +7,6 @@ Creando primera página en el curso de Platzi.
 ### Colaboradores:
 - Abraham Alanya / https://github.com/abrahamalanya
 - Gino Galarza / https://github.com/ginogalarzac
+
+### Colaborador externo:
+- D3vimg / me gusta el proyecto y quiero aportar para que siga creciendo `firstpage`
